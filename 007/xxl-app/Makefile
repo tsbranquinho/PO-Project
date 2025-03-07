@@ -1,4 +1,4 @@
-PO_UILIB_DIR=../../../po-uilib-202308010000
+PO_UILIB_DIR=../../../po-uilib
 JARNAME=xxl-app
 
 all:
